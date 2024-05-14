@@ -14,6 +14,7 @@
 		F2141AFF2BEFF0BA007ED2D7 /* Sous_ChefTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2141AFE2BEFF0BA007ED2D7 /* Sous_ChefTests.swift */; };
 		F2141B092BEFF0BA007ED2D7 /* Sous_ChefUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2141B082BEFF0BA007ED2D7 /* Sous_ChefUITests.swift */; };
 		F2141B0B2BEFF0BA007ED2D7 /* Sous_ChefUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2141B0A2BEFF0BA007ED2D7 /* Sous_ChefUITestsLaunchTests.swift */; };
+		F2141B182BF00DA4007ED2D7 /* SousSplash.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2141B172BF00DA3007ED2D7 /* SousSplash.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F2141B042BEFF0BA007ED2D7 /* Sous ChefUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sous ChefUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2141B082BEFF0BA007ED2D7 /* Sous_ChefUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sous_ChefUITests.swift; sourceTree = "<group>"; };
 		F2141B0A2BEFF0BA007ED2D7 /* Sous_ChefUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sous_ChefUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F2141B172BF00DA3007ED2D7 /* SousSplash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SousSplash.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F2141AEF2BEFF0B9007ED2D7 /* ContentView.swift */,
 				F2141AF12BEFF0BA007ED2D7 /* Assets.xcassets */,
 				F2141AF32BEFF0BA007ED2D7 /* Preview Content */,
+				F2141B172BF00DA3007ED2D7 /* SousSplash.swift */,
 			);
 			path = "Sous Chef";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2141AF02BEFF0B9007ED2D7 /* ContentView.swift in Sources */,
+				F2141B182BF00DA4007ED2D7 /* SousSplash.swift in Sources */,
 				F2141AEE2BEFF0B9007ED2D7 /* Sous_ChefApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
